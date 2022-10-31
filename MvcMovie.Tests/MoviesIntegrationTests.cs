@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace MvcMovie.Tests
 {
+    [Ignore]
     [TestClass]
     public class MoviesIntegrationTests
     {
