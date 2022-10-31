@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecfdd99e-59b3-4ffb-8354-591f3d59d065": {
+      "ProjectGuid": "ecfdd99e-59b3-4ffb-8354-591f3d59d065",
+      "DisplayName": "MvcMovie",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8e06aa8b-1f8a-447b-8c7a-f79aa60108f7": {
+      "ProjectGuid": "8e06aa8b-1f8a-447b-8c7a-f79aa60108f7",
+      "DisplayName": "MvcMovie.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
