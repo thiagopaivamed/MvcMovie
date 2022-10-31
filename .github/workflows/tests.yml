@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --filter MoviesIntegrationTests --configuration Release
+      run: dotnet test --filter https://github.com/thiagopaivamed/MvcMovie/blob/main/MvcMovie.Tests/MoviesIntegrationTests.cs --configuration Release
