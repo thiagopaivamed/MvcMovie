@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --filter MvcMovie.Tests.MoviesIntegrationTests.Should_Get_All_Movies  --filter MvcMovie.Tests.MoviesIntegrationTests.Return_Movie_By_Its_Id --filter MvcMovie.Tests.MoviesIntegrationTests.Create_New_Movie --filter MvcMovie.Tests.MoviesIntegrationTests.Update_A_Movie --filter MvcMovie.Tests.MoviesIntegrationTests.Delete_A_Movie  --configuration Release
+      run: dotnet test --configuration Release
